@@ -1,0 +1,26 @@
+{
+  "@@locale": "en",
+  "appTitle": "Slamora",
+  "profileSettingsTitle": "Profile / Settings",
+  "notificationSettings": "Notification Settings",
+  "privacy": "Privacy",
+  "helpSupport": "Help & Support",
+  "shareApp": "Share App",
+  "deleteAccount": "Delete Account",
+  "termsOfService": "Terms of Service",
+  "logOut": "Log Out",
+  "trySlamora": "Try Slamora",
+  "shareAppMessage": "I found Slamora, a sweet app to save memories, create slams, and get gift or message ideas for your people.\n\nDownload it here:\n{playStoreUrl}",
+  "@shareAppMessage": {
+    "placeholders": {
+      "playStoreUrl": {
+        "type": "String"
+      }
+    }
+  },
+  "couldNotOpenPrivacy": "Could not open privacy policy.",
+  "couldNotOpenTerms": "Could not open terms of service.",
+  "couldNotOpenEmail": "Could not open email app.",
+  "supportEmailSubject": "Slamora support",
+  "supportEmailBody": "Hi Team,\n\n"
+}

@@ -1,0 +1,26 @@
+{
+  "@@locale": "hi",
+  "appTitle": "Slamora",
+  "profileSettingsTitle": "प्रोफाइल / सेटिंग्स",
+  "notificationSettings": "नोटिफिकेशन सेटिंग्स",
+  "privacy": "प्राइवेसी",
+  "helpSupport": "हेल्प और सपोर्ट",
+  "shareApp": "ऐप शेयर करें",
+  "deleteAccount": "अकाउंट डिलीट करें",
+  "termsOfService": "सेवा की शर्तें",
+  "logOut": "लॉग आउट",
+  "trySlamora": "Slamora आज़माएं",
+  "shareAppMessage": "मुझे Slamora मिला, यादें सेव करने, स्लैम बनाने, और अपने लोगों के लिए गिफ्ट या मैसेज आइडिया पाने के लिए एक प्यारा ऐप।\n\nयहां से डाउनलोड करें:\n{playStoreUrl}",
+  "@shareAppMessage": {
+    "placeholders": {
+      "playStoreUrl": {
+        "type": "String"
+      }
+    }
+  },
+  "couldNotOpenPrivacy": "प्राइवेसी पॉलिसी नहीं खुल सकी।",
+  "couldNotOpenTerms": "सेवा की शर्तें नहीं खुल सकीं।",
+  "couldNotOpenEmail": "ईमेल ऐप नहीं खुल सका।",
+  "supportEmailSubject": "Slamora सपोर्ट",
+  "supportEmailBody": "Hi Team,\n\n"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1005754615766",
+    "project_id": "slamora-1dc67",
+    "storage_bucket": "slamora-1dc67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005754615766:android:fff89286d34a068d1d4677",
+        "android_client_info": {
+          "package_name": "com.smartappsin.slamora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005754615766-5vm1lljnuo1r6vk8oiu493monuinj3r1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartappsin.slamora",
+            "certificate_hash": "3becca2a2b43274fd2ebddc376d00a0b45a71778"
+          }
+        },
+        {
+          "client_id": "1005754615766-3hui6ra8f2biqvqqt74bkkf8v3kerfa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXir3IqWS8yfVk1gSwMWwaLDiobcKMKxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005754615766-3hui6ra8f2biqvqqt74bkkf8v3kerfa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

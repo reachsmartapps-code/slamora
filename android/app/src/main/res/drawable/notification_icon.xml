@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="@color/notification_icon_color"
+        android:pathData="M17.9,4.4C16.8,3.5 15.2,3 13.4,3C10.4,3 8.1,4.4 7.6,6.4C7.2,8.1 8.2,9.4 10.7,10.2L13.9,11.2C15.1,11.6 15.6,12.1 15.5,12.8C15.3,14 13.7,14.8 11.8,14.8C9.9,14.8 8.2,14.2 6.9,13.2L5.6,15.7C7.1,16.9 9.3,17.6 11.7,17.6C14.9,17.6 17.5,16.1 18.1,13.8C18.6,11.9 17.5,10.6 15,9.8L11.8,8.8C10.7,8.5 10.2,8 10.3,7.4C10.5,6.5 11.7,5.8 13.3,5.8C14.7,5.8 15.9,6.2 16.8,7L17.9,4.4Z" />
+
+</vector>
